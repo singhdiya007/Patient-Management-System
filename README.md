@@ -15,5 +15,4 @@ Developed a scalable Patient Management System using FastAPI, supporting CRUD op
 
 ## Run Project
 ```bash
-pip install -r requirements.txt
-python -m uvicorn API6:app --reload
+python -m uvicorn Patient_Management_System:app --reload
